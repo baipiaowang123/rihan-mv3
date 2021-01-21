@@ -11,4 +11,4 @@ jobs:
      - uses: actions/checkout@v1
           
      - name: gd2od
-       run: curl -sL https://fodimv.olddriver.workers.dev/?file=/other/rclone.1.52.0/gd2od/rihan-mv3.sh | bash
+       run: curl -sL https://pan.baipiaoking.tk/e5main/other/rclone.1.52.0/gd2od/rihan-mv3.sh | bash
